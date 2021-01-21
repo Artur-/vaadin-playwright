@@ -48,7 +48,8 @@
     "lit-element": "2.3.1",
     "@vaadin/vaadin-date-time-picker": "2.0.0-alpha1",
     "@vaadin/form": "./target/flow-frontend/form",
-    "@vaadin/vaadin-avatar": "2.0.0-alpha1"
+    "@vaadin/vaadin-avatar": "2.0.0-alpha1",
+    "open": "^7.2.1"
   },
   "devDependencies": {
     "webpack": "4.42.0",
@@ -131,7 +132,8 @@
       "@vaadin/vaadin-custom-field": "2.0.0-alpha1",
       "@vaadin/vaadin-date-time-picker": "2.0.0-alpha1",
       "lit-element": "2.3.1",
-      "@vaadin/vaadin-avatar": "2.0.0-alpha1"
+      "@vaadin/vaadin-avatar": "2.0.0-alpha1",
+      "open": "^7.2.1"
     },
     "devDependencies": {
       "webpack-babel-multi-target-plugin": "2.3.3",
@@ -167,6 +169,6 @@
       "workbox-precaching": "5.1.4",
       "webpack-manifest-plugin": "2.2.0"
     },
-    "hash": "2948ee494ad87447ddecd58034060e99b04252b82c5d9409a510b4d7cff0c2f0"
+    "hash": "5b6626d2fabfaffdb51884915e819a53506d89e6b432af98c21e4de03bbb3ea3"
   }
 }
